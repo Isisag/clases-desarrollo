@@ -1,0 +1,21 @@
+body{
+    /* background-color: rgb(48, 161, 161);
+    background-image: url("https://store-images.s-microsoft.com/image/apps.61754.13965336120690994.530e3a89-a770-41e6-9811-247bf754c92d.63b97d84-4814-4274-a901-29fba92b12b2?mode=scale&q=90&h=1080&w=1920"); */
+/* 
+    background-image: url(image/600_Art-Design-Works_Fractal\ Art\ III.jpg);
+    background-position: left top; */
+
+    background: url(https://store-images.s-microsoft.com/image/apps.61754.13965336120690994.530e3a89-a770-41e6-9811-247bf754c92d.63b97d84-4814-4274-a901-29fba92b12b2?mode=scale&q=90&h=1080&w=1920) no-repeat left top;
+    
+    
+}
+
+.elemento{
+    background: red;
+    width: 200px;
+    height: 150px;
+}
+
+h1{
+    background-color: blanchedalmond;
+}
